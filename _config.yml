@@ -83,17 +83,17 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
 comment: gitalk # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot 使用 false 可以关闭
 
 gitalk:
-  admin: nexmoe # 拥有对该repo进行操作的 GitHub username
-  owner: nexmoe # 持有该 repo 的 GitHub username
-  repo: nexmoe.github.io # 存放评论的 issue 所在的 repo
-  clientID: 80b2453b6d5f37ad6225 # GitHub Client ID
-  clientSecret: 43e99fa852795c9a7b3eb924b2558c64b84bbdeb # GitHub Client Secret
+  admin: axpv-code # 拥有对该repo进行操作的 GitHub username
+  owner: axpv-code # 持有该 repo 的 GitHub username
+  repo: the-new-minenakjffkafewfwe # 存放评论的 issue 所在的 repo
+  clientID: 00897c6941b50363fe18 # GitHub Client ID
+  clientSecret: fb9724eac96081daa21aa24b5fa68f2a1e86bdb5 # GitHub Client Secret
 
 gitment:
-  owner: nexmoe # 持有该 repo 的 GitHub username
-  repo: nexmoe.github.io # 存放评论的 issue 所在的 repo
-  clientID: 80b2453b6d5f37ad6225 # GitHub Client ID
-  clientSecret: 43e99fa852795c9a7b3eb924b2558c64b84bbdeb # GitHub Client Secret
+  owner: axpv-code # 持有该 repo 的 GitHub username
+  repo: the-new-minenakjffkafewfwe # 存放评论的 issue 所在的 repo
+  clientID: 00897c6941b50363fe18 # GitHub Client ID
+  clientSecret: fb9724eac96081daa21aa24b5fa68f2a1e86bdb5 # GitHub Client Secret
 
 valine: 
   appId: <API_ID> # leancloud application app id
