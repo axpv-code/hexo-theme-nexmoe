@@ -1,10 +1,10 @@
-avatar: https://i.loli.net/2021/06/06/CeJ39M6fcQahsIR.png # 网站 Logo
+avatar: https://i.postimg.cc/XNpR9Hg1/792a4b6934fc491b81342206e3192e59.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-  path: https://i.loli.net/2021/06/06/zZJIslCKrQ4vamj.png
-  width: 1920
-  height: 1080
+  path: https://i.postimg.cc/7h6Q967T/emm.png
+  width: 3840
+  height: 2160
 favicon:
-  href: /favicon.ico # 网站图标
+  href: https://i.postimg.cc/XNpR9Hg1/792a4b6934fc491b81342206e3192e59.png # 网站图标
   type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
